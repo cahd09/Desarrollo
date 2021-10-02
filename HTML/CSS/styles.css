@@ -1,0 +1,42 @@
+/* INDEX */
+/* Cuando se aplica estilos sobre un id es un elemento especifico, si son varios elementos de diferentes tipos,
+se puede utilizar las clases */
+
+/*Cambios que se aplican a todos los elementos que contiene el body  */
+h1 {
+    background-color: azure;
+    color: cornflowerblue;
+}
+
+/* Cuando el llamado es por etiqueta/id se debe agregar # */
+#sub2 {
+    background-color: gainsboro;
+    color: cadetblue;
+}
+
+/* Cuando el llamado es por clase se debe agregar . */
+.idcl1{
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+/* INDEX2 */
+/* Hacer cambios cuando se pasa el mouse por encima del href */
+a:hover {
+    text-decoration: none; /* Ocultar barra inferior del enlace */
+    color: crimson;
+    font-weight: 800;
+}
+
+input:focus {
+    background-color: bisque;
+}
+
+#vestuario p:first-child {
+    color: aquamarine;
+}
+
+/* Primer línea de cada parrafo en negrilla */
+p::first-line{
+    font-weight: bolder;
+}

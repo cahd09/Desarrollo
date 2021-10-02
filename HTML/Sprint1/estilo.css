@@ -1,0 +1,54 @@
+/* index */
+#nav_bar a{
+    display:inline-block;
+    background-color:lightgray;
+    color:white;
+    text-decoration: none; /* Ocultar barra inferior del enlace */
+    padding: 30px 50px;
+}
+#nav_bar a:hover {
+    background-color:blue;
+}
+#nav_bar {
+position: fixed;
+top: 0;
+}
+
+/* .button {
+    background-color: #4CAF50;
+    border: none;
+    color: blue;
+    padding: 50px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+} */
+
+/* registro */
+.general {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 8px;
+}
+.general:hover {
+    border: white;
+    background-color: darkseagreen;
+}
+
+#formRegistro {
+    padding: 200px 100px;
+}
+/* #Registerbutton {
+    height: 30px;
+    width: 50px;
+} */
+#Registerbutton:hover {
+    background-color:blue;
+    color: white;
+}
+input {
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 8px;
+}

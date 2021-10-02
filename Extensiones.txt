@@ -1,0 +1,18 @@
+HTML CSS Support
+HTML Snippets
+IntelliSense for CSS class names in HTML
+HTML Preview
+Live HTML Previewer
+Live Server
+Auto Rename Tag
+Auto Close Tag
+
+Profesor
+3234955294
+
+alt con clic - permite seleccionar varias líneas para agregar o eliminar algo
+
+
+Conexion Proyecto con Git
+git init
+git remote add origin https://github.com/cahd09/Desarrollo.git
