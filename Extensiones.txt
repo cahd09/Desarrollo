@@ -1,3 +1,4 @@
+Extensiones
 HTML CSS Support
 HTML Snippets
 IntelliSense for CSS class names in HTML
@@ -7,12 +8,31 @@ Live Server
 Auto Rename Tag
 Auto Close Tag
 
-Profesor
-3234955294
+Revisar
+NativeScript, React Native, Flutter
 
+Etiquetas HTML
 alt con clic - permite seleccionar varias líneas para agregar o eliminar algo
-
+maxlength - sirve para establecer el maximo de caracteres
+<li><a target="_blank" href="../index.html">Sass</a>Indexs</li> - target para abrir una nueva pestaña
+<div class="row tarjeta"> - se puede crear una clase propia para asignar atributos CSS a un elemento
+                            row - clase de materialize
+                            trajerta - clase propia
 
 Conexion Proyecto con Git
 git init
 git remote add origin https://github.com/cahd09/Desarrollo.git
+git add .
+git commit "message"
+git push origin master
+
+
+rm -rf.git
+
+Clonar Repositorio
+git clone url-Repositorio
+
+Crear ramas del Repositorio
+git branch ramaDesarrollo
+
+git checkout master
